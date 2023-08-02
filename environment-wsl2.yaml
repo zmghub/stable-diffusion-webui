@@ -1,4 +1,4 @@
-name: automatic
+name: sdui
 channels:
   - pytorch
   - defaults
